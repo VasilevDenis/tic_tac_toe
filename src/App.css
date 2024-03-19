@@ -10,7 +10,7 @@
     flex-direction: column;
     border: #F2F3F5 solid;
     margin: auto;
-    width: fit-content;
+    max-width: fit-content;
 }
 
 .board-row {
